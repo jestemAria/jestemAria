@@ -1,8 +1,6 @@
 <!--
 **jestemAria/jestemAria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-<!-- <h1 align="center">Hi 👋, I'm Aria Radmehr</h1> -->
+-->
 <h1 align="center">Hi 🗽, I'm Aria Radmehr</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jestemAria&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
@@ -46,7 +44,6 @@ Here are some ideas to get you started: -->
 
 <h1 align="center">Github Status 📊</h1>
 <p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=jestemAria&include_all_commits=true&show_icons=true&theme=dark" />
-  <img width="550em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jestemAria&theme=github_dark" />
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jestemAria&theme=github_dark" />
 </p>
 
