@@ -9,7 +9,7 @@
 - 💬 Ask me about **Blockchain**
 
 <h1 align="center">Achievement 🏆</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jestemAria" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jestemAria&theme=onestar" /></a> </p>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
