@@ -4,7 +4,7 @@
 <h1 align="center">Hi 🗽, I'm Aria Radmehr</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jestemAria&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 🔭 I’m currently student in **University of Znajan**
+- 🔭 I’m currently student in **University of Zanjan**
 - 🌱 I’m currently learning **Advanced programming, Deep learning, Web3**
 - 💬 Ask me about **Blockchain**
 
