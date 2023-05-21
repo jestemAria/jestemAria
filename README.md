@@ -9,4 +9,4 @@
 - 💬 Ask me about **Blockchain**
 
 <h1 align="center">Achievement 🏆</h1>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jestemAria&theme=onestar" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jestemAria&theme=onestar&row=1" /></a> </p>
