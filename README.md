@@ -4,8 +4,9 @@
 <h1 align="center">Hi 🗽, I'm Aria Radmehr</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jestemAria&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-- 📚 Bachelor of Science (CE) student @ **University of Znajan**
-- 🔭 Master of Science (AI) student @ **Vrije Universiteit Brussel**
+- 📚 Bachelor of Science (Computer Engineering) student @ **University of Znajan**
+- 🔭 Master of Science (Applied Computer Science) student @ **Vrije Universiteit Brussel**
+- 💎 Lead Consulting Project @ **Emergent Leuven** Organization
 - 🌱 I’m currently learning **Web3, Deep learning and Heuristic Optimisations**
 - 💬 Ask me about **Blockchain**
 
